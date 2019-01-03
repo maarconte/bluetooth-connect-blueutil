@@ -2,6 +2,7 @@
 An automator workflow to toggle bluetooth and connect to your favorite device.
 
 # Install
+- Install [Blueutil](https://github.com/toy/blueutil)
 - Download [bluetooth-connectblueutil.zip](https://google.com)
 - Open bluetooth-connect.workflow with `Automator`
 - Change the address 00-00-00-00-00-00 of your device
